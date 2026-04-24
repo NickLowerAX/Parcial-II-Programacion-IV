@@ -1,5 +1,10 @@
 <h1> Parcial-II-Programaci-n-IV </h1>
-  
+
+<h2>Integrantes</h2>
+<p>Noé Isaí Hernández Rivas / SMSS010623 -
+Daniela Kristel Marquez Chavez / SMSS089923 -
+Eduardo Antonio Fuentes Melara (SMSS093423)</p>
+
 <h2>¿Cómo manejan la conexión a la BD y qué pasa si algunos de los datos son incorrectos?
 Justifiquen la manera de validación de la conexión</h2>
 
