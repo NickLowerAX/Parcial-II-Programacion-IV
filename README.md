@@ -1,4 +1,4 @@
-<h1> Parcial-II-Programaci-n-IV </h1>
+<h1> Parcial-II-Programacion-IV </h1>
 
 <h2>Integrantes</h2>
 <p>Noé Isaí Hernández Rivas / SMSS010623 -
