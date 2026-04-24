@@ -31,13 +31,13 @@ mitigarían?</h2>
   <p>Exposición de errores: mostrar errores internos puede revelar información sensible del sistema</p>
   <p>Maneras para mitigar riesgos</p>
   
-<p>separa datos de la consulta, evitando inyección SQL</p>
+<h3>separa datos de la consulta, evitando inyección SQL</h3>
   <p>se puede usar "password_hash()" con el fin de proteger contraseñas al almacenarlas en forma encriptada</p>
   <p>controlando las sesiones ya que permite identificar y restringir el acceso a usuarios autenticados</p>
   <p>validacion de datos evitando entradas sospechosas o en si peligrosas</p>
   
-<h3>En el mismo readme realizar un diccionario de datos con las tablas con el siguiente
-formato:</h3>
+<h2>En el mismo readme realizar un diccionario de datos con las tablas con el siguiente
+formato:</h2>
 
 <h2>Tabla: usuarios</h2>
 <table border="1">
