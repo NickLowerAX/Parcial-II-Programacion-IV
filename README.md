@@ -29,9 +29,9 @@ mitigarían?</h2>
   <p>Inyección SQL: ocurre cuando no se controlan los datos de entrada y pueden alterar consultas</p>
   <p>Robo de sesión: un atacante puede usar la sesión de otro usuario si no está protegida</p>
   <p>Exposición de errores: mostrar errores internos puede revelar información sensible del sistema</p>
-  <p>Maneras para mitigar riesgos</p>
   
-<h3>separa datos de la consulta, evitando inyección SQL</h3>
+<h3>Maneras para mitigar riesgos</h3>
+  <p>separa datos de la consulta, evitando inyección SQL</p>
   <p>se puede usar "password_hash()" con el fin de proteger contraseñas al almacenarlas en forma encriptada</p>
   <p>controlando las sesiones ya que permite identificar y restringir el acceso a usuarios autenticados</p>
   <p>validacion de datos evitando entradas sospechosas o en si peligrosas</p>
