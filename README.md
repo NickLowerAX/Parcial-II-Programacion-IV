@@ -25,11 +25,10 @@ Se usa GET en búsquedas de productos existentes</p>
 identificas en una app web con BD que maneja datos de los usuarios? ¿Cómo los
 mitigarían?</h2>
 
-<p>Riesgos encontrados: 
-  Inyección SQL: ocurre cuando no se controlan los datos de entrada y pueden alterar consultas.
-  Robo de sesión: un atacante puede usar la sesión de otro usuario si no está protegida.
-  Exposición de errores: mostrar errores internos puede revelar información sensible del sistema.
-</p>
+<p>Riesgos encontrados:</p>
+  <p>Inyección SQL: ocurre cuando no se controlan los datos de entrada y pueden alterar consultas.</p>
+  <p>Robo de sesión: un atacante puede usar la sesión de otro usuario si no está protegida.</p>
+  <p>Exposición de errores: mostrar errores internos puede revelar información sensible del sistema.</p>
 
 <h2>En el mismo readme realizar un diccionario de datos con las tablas con el siguiente
 formato:</h2>
