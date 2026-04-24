@@ -1,4 +1,4 @@
-</h1>Parcial-II-Programaci-n-IV </h1>
+<h1> Parcial-II-Programaci-n-IV </h1>
   
 <h2>¿Cómo manejan la conexión a la BD y qué pasa si algunos de los datos son incorrectos?
 Justifiquen la manera de validación de la conexión</h2>
